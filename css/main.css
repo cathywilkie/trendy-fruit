@@ -24,21 +24,30 @@ html {
   width: 100%;
 }
 
-.banner {
+.grid {
 
 }
 
 .watermelon {
-  font-family: "Rammetto One", cursive;
   background-color: #e97065;
 }
 
 .starfruit {
-  font-family: "Gravitas One", cursive;
   background-color: #fbd25e;
 }
 
 .persimmon {
-  font-family: "Comfortaa", cursive;
   background-color: #e86033;
+}
+
+.watermelon h2 {
+  font-family: "Rammetto One", cursive;
+}
+
+.starfruit h2 {
+  font-family: "Gravitas One", cursive;
+}
+
+.persimmon h2 {
+  font-family: "Comfortaa", cursive;
 }
