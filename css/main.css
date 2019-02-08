@@ -24,8 +24,8 @@ html {
   width: 100%;
 }
 
-.grid {
-
+body {
+  margin: 0;
 }
 
 .watermelon {
@@ -49,5 +49,5 @@ html {
 }
 
 .persimmon h2 {
-  font-family: "Comfortaa", cursive;
+  font-family: Comfortaa, cursive;
 }
